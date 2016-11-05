@@ -38,7 +38,7 @@
 	height: 35px;
 	top: 170px;
 	left: 380px;
-   border-radius: 30px; 	
+  	border-radius: 30px; 	
 	background-color: #FFFFFF;
 }
 
@@ -49,9 +49,7 @@
 	height: 35px;
 	top: 170px;
 	left: 580px;
-	
-   border-radius: 30px; 	
-	
+	border-radius: 30px; 	
 	background-color: #FFFFFF;
 }
 
@@ -73,7 +71,6 @@
 	left: 300px;
 	border-bottom-left-radius: 50px;
 	border-bottom-right-radius: 50px;
-	
 	background-color: #A4C639;
 }
 
